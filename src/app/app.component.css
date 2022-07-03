@@ -1,0 +1,6 @@
+/* para cambiar el estilo de la pagina general desde un componente por eso el :host */
+:host {
+display: flex;
+justify-content: space-between;
+flex-wrap: wrap;
+}
